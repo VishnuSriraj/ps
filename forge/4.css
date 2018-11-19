@@ -188,16 +188,30 @@ font-size:1.1vw;
 }
 
 
-@media screen and (min-width: 768px) and (max-width: 991px)
+.col-md-5
 {
+	background-color:#f2f2ee;
 
-.valueprop
-{
-	color: blue;
 }
 
 
-.avatar
+#saii
 {
-	 border-radius: 50%;
+	padding-top:6%;
+	background-color:#f2f2ee;
+
+}
+
+.col-md-1
+{
+	padding-right: 0px!important;
+	padding-left: 0px!important;
+
+}
+
+
+.saii2
+{
+	padding-top:2%;
+	background-color:#f2f2ee;
 }
