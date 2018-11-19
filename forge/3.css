@@ -12,9 +12,9 @@ body
 
 
 
-.bg-light
+.bgs
 {
-background-color:#414042!important;
+background-color:#58595b!important;
 }
 
 .btn-warning
@@ -26,14 +26,16 @@ background-color:#414042!important;
 
 .r1
 {
-	background-color:#f2f2ee;
+	background-color:#58595b;
+	color: white;
+	
 
 }
 
 
 html,.bgc
 {
-	background-color:#f2f2ee;
+	background-color:#58595b;
 }
 
 .pro
@@ -49,9 +51,10 @@ html,.bgc
 
 .buttons
 {
-	background-color:#f2f2ee!important;
+	background-color:#58595b!important;
 	border:0px!important;
 	cursor: pointer;
+	color: white
 
 }
 
@@ -77,6 +80,7 @@ font-size: 1.3em;
 .con
 {
 	position: relative;
+	color: black;
 }
 
 .hovcon,.hovcon1
@@ -90,6 +94,7 @@ font-size: 1.3em;
 	padding:8%;
 	visibility: hidden;
 	opacity:1;
+	color: black;
 	
 
 }
@@ -119,4 +124,27 @@ font-size: 1.3em;
 	left:50%;
 	width:40%;
 	background:orange;
+}
+
+.tt
+{
+	font-size: 1vh;
+}
+
+.col-md-1
+{
+	padding-right: 0px;
+}
+
+.hovcon_content
+{
+	margin-top: 5vh;
+
+	font-size: 2.3vh
+
+}
+
+.sai2
+{
+	margin-top: 3vh;
 }

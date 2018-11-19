@@ -2441,7 +2441,7 @@ input, select, textarea {
 			}
 
 		.icon.major {
-			background: #000000;
+			background: #a7a9ac;
 			border-radius: 100%;
 			cursor: default;
 			display: inline-block;
@@ -2470,8 +2470,8 @@ input, select, textarea {
 				}
 
 				.icon.major.alt:before {
-					color: #000000 !important;
-					text-shadow: 1px 0 0 #ffffff, -1px 0 0 #ffffff, 0 1px 0 #ffffff, 0 -1px 0 #ffffff;
+					color: #a7a9ac !important;
+					text-shadow: 1px 0 0 #000000, -1px 0 0 #000000, 0 1px 0 #000000, 0 -1px 0 #000000;
 				}
 
 /* Image */
@@ -3106,7 +3106,7 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #f15b40;
+			border-color: #f5834e;
 		}
 
 		.spotlight.style2 .content {
@@ -3168,7 +3168,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
-			background: #f5834e;
+			background: #414042;
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
